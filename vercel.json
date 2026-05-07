@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd artifacts/flappy-bird && pnpm build",
+  "outputDirectory": "artifacts/flappy-bird/dist/public",
+  "installCommand": "pnpm install",
+  "framework": "vite"
+}
